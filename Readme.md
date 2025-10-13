@@ -15,4 +15,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
    - Attach screenshots or  
    - Add links to your code submissions/projects  
 
-4. Keep pushing your changes every day!  
+4. Keep pushing your changes every day!
+
+Swapni Dubey
+leetcode profile: https://leetcode.com/Zenitsu12/
+DAY1(13/10/2025)
+   --solved leetcode questions:
+      palidrome number: https://leetcode.com/problems/palindrome-number/
+      two sum: https://leetcode.com/problems/two-sum/
+   --lectures(CP by Luv):
+      STL Overview: https://youtu.be/R5BEcvTVZj0?si=TXgjx1Xp8bOvH8w4
+      Pairs and Vectors: https://youtu.be/udExMlaR_nA?si=qa5GHNtDdTejTfsI
+      Nesting in Vectors: https://youtu.be/ytyOI1RkZ24?si=QKnva0ZIBR1Ka1HL

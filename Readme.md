@@ -27,3 +27,10 @@ DAY1(13/10/2025)
       STL Overview: https://youtu.be/R5BEcvTVZj0?si=TXgjx1Xp8bOvH8w4
       Pairs and Vectors: https://youtu.be/udExMlaR_nA?si=qa5GHNtDdTejTfsI
       Nesting in Vectors: https://youtu.be/ytyOI1RkZ24?si=QKnva0ZIBR1Ka1HL
+
+DAY2(14/10/2025)
+   --solved TLE CP-31 questions:
+      Line Trip: https://codeforces.com/contest/1901/submission/343743698
+      Game with integers: https://codeforces.com/contest/1899/submission/343747351
+   
+      

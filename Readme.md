@@ -33,4 +33,9 @@ DAY2(14/10/2025)
       Line Trip: https://codeforces.com/contest/1901/submission/343743698
       Game with integers: https://codeforces.com/contest/1899/submission/343747351
    
-      
+DAY3(15/10/2025)
+   --solved TLE CP-31 questions
+      Jagged Swaps: https://codeforces.com/contest/1896/submission/343917420
+      Halloumi Boxes: https://codeforces.com/problemset/submission/1903/343919722
+   --lectures
+      iterators: https://youtu.be/4EDbe3lhHOM?si=5Qc741nfJ4aOFZAD and https://youtu.be/xiXMmOSDX3U?si=wErThE1cFqtwJo8S

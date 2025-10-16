@@ -39,3 +39,12 @@ DAY3(15/10/2025)
       Halloumi Boxes: https://codeforces.com/problemset/submission/1903/343919722
    --lectures
       iterators: https://youtu.be/4EDbe3lhHOM?si=5Qc741nfJ4aOFZAD and https://youtu.be/xiXMmOSDX3U?si=wErThE1cFqtwJo8S
+
+DAY4(16/10/2025)
+   --solved TLE CP-31 questions
+      How Much Does Daytona Cost?: https://codeforces.com/contest/1878/submission/344077205
+      Goals of Victory: https://codeforces.com/contest/1877/submission/344079248
+   --lectures(CP by Luv)
+      Maps: https://youtu.be/gUrfXZ0hqoA?si=6BWSEbQQVONORhRv and https://youtu.be/okLflHtlCuk?si=E44oWsDkgxg5R47z
+
+      

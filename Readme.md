@@ -47,4 +47,9 @@ DAY4(16/10/2025)
    --lectures(CP by Luv)
       Maps: https://youtu.be/gUrfXZ0hqoA?si=6BWSEbQQVONORhRv and https://youtu.be/okLflHtlCuk?si=E44oWsDkgxg5R47z
 
-      
+DAY5(17/10/2025)
+   --TLE CP-31 questions
+      Doremy's Paint 3: https://codeforces.com/contest/1890/submission/344383878
+      Ambitious Kid: https://codeforces.com/contest/1866/submission/344388264
+   --lectures(CP by Luv)
+      set: https://youtu.be/7mx2BasNK0w?si=AenKqw0z0bYpfWab

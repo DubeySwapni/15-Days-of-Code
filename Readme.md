@@ -53,3 +53,8 @@ DAY5(17/10/2025)
       Ambitious Kid: https://codeforces.com/contest/1866/submission/344388264
    --lectures(CP by Luv)
       set: https://youtu.be/7mx2BasNK0w?si=AenKqw0z0bYpfWab
+
+DAY6(18/10/2025)
+   --Lectures(CP by Luv)
+      STL question: https://youtu.be/hoT_D60UzAU?si=maOsz9o1As3VH_G8
+      Nesting in STL maps and Sets: https://youtu.be/zyGSg3U1K94?si=PLJFWcr4CUkPqVb-

@@ -58,3 +58,12 @@ DAY6(18/10/2025)
    --Lectures(CP by Luv)
       STL question: https://youtu.be/hoT_D60UzAU?si=maOsz9o1As3VH_G8
       Nesting in STL maps and Sets: https://youtu.be/zyGSg3U1K94?si=PLJFWcr4CUkPqVb-
+
+DAY7(19/10/2025)
+   --TLE CP-31 question
+      Target Practice: https://codeforces.com/contest/1873/submission/344600368
+   --Lectures(CP by Luv)
+      Stacks and Queues: https://youtu.be/JK1oBTQRWRA?si=OmJqNaAacjITb8pD
+      Balanced Brackets: https://youtu.be/q-JB0hYyouo?si=_LdQPmp4kzDe06gZ
+
+   

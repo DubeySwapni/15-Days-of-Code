@@ -66,4 +66,11 @@ DAY7(19/10/2025)
       Stacks and Queues: https://youtu.be/JK1oBTQRWRA?si=OmJqNaAacjITb8pD
       Balanced Brackets: https://youtu.be/q-JB0hYyouo?si=_LdQPmp4kzDe06gZ
 
-   
+DAY8(20/10/2025)
+   --Lectures(CP by Luv)
+      Next Greater element with stack: https://youtu.be/T-E3hWEPWWU?si=pKpYzyaaY9jLd8nZ
+
+DAY9(21/10/2025)
+   --Lectures(CP by Luv)
+       Inbuilt sort: https://youtu.be/zI9wlhwMZpk?si=pbipDTDJ4n0LgxaY
+       Comparator Function: https://youtu.be/3pvZhwp0U9w?si=YryhEgh-J_JLF1us

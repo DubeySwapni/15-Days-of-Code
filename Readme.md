@@ -74,3 +74,14 @@ DAY9(21/10/2025)
    --Lectures(CP by Luv)
        Inbuilt sort: https://youtu.be/zI9wlhwMZpk?si=pbipDTDJ4n0LgxaY
        Comparator Function: https://youtu.be/3pvZhwp0U9w?si=YryhEgh-J_JLF1us
+
+DAY10(22/10/2025)
+   --Lectures(CP by Luv)
+      Upper bound and Lower bound in STL: https://youtu.be/Cg7SI0WtmXY?si=EDEmqgJg-MnOAMLd
+      STL Inbuilt algorithms : https://youtu.be/sYs0L1vxRjo?si=Z0yTpXb6OL2vB0um and https://youtu.be/o-WpVoRgSj4?si=41ZjyArbkUdqvLmJ
+
+DAY11(23/10/2025)
+   --Lectures(CP by Luv)
+      Generate Parenthesis: https://youtu.be/4KpSXSIPH2s?si=h2VZzt9hJTylTQ0_ 
+      Subset Generation: https://youtu.be/u0e29JIdxZU?si=oZVUmnK21yn2xagr
+   

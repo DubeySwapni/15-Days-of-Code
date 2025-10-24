@@ -85,3 +85,9 @@ DAY11(23/10/2025)
       Generate Parenthesis: https://youtu.be/4KpSXSIPH2s?si=h2VZzt9hJTylTQ0_ 
       Subset Generation: https://youtu.be/u0e29JIdxZU?si=oZVUmnK21yn2xagr
    
+DAY12(24/10/2025)
+   --Lectures(CP by Luv)
+      Binary Search: https://youtu.be/egRrgj8JOdY?si=cC8gPq6ZXNoHHhGh
+   --TLE CP-31 question:
+      Cover In Water: https://codeforces.com/contest/1900/submission/345640849
+      

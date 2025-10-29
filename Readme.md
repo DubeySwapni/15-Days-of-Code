@@ -90,4 +90,23 @@ DAY12(24/10/2025)
       Binary Search: https://youtu.be/egRrgj8JOdY?si=cC8gPq6ZXNoHHhGh
    --TLE CP-31 question:
       Cover In Water: https://codeforces.com/contest/1900/submission/345640849
+   --Contest on CF Div2:
+      Tried problem A, answer was wrong
+
+// I was travelling on the 25th and 26th, hence couldn’t do the task on those days.
+
+DAY13(27/10/2025)
+   --Lectures(CP by Luv)
+      Implement upper and lower bound with binary search: https://youtu.be/gcYvFVZ_LUA?si=aH5SgHH7pewrHA-s
+   --TLE CP-31 question:
+      Don't try to count: https://codeforces.com/contest/1881/submission/346075888
+
+DAY14(28/10/2025)
+   --Contest on CF Div4:
+      Problem A(Square?) : https://codeforces.com/contest/2167/submission/346224916
+      Problem B(Your Name) : https://codeforces.com/contest/2167/submission/346270618
+      Problem C(Isamatdin and His Magic Wand!) : https://codeforces.com/contest/2167/submission/346305486
+      Problem G(Mukhammadali and the Smooth Array) : https://codeforces.com/contest/2167/submission/346350102
+
+
       

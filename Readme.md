@@ -108,5 +108,7 @@ DAY14(28/10/2025)
       Problem C(Isamatdin and His Magic Wand!) : https://codeforces.com/contest/2167/submission/346305486
       Problem G(Mukhammadali and the Smooth Array) : https://codeforces.com/contest/2167/submission/346350102
 
-
+DAY15(29/10/2025)
+   --Lecture(CP by Luv)
+      Nth root of a number using binary search: https://youtu.be/5snE6xsyheE?si=ILRSVzYN_NHsuw8w
       
